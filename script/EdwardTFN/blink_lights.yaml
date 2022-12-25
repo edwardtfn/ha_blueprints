@@ -2,7 +2,7 @@ blueprint:
   name: Blink lights
   description: Blink lights (or switches).
   domain: script
-  source_url: https://community.home-assistant.io/t/wth-is-so-difficult-to-make-a-light-blink-for-a-couple-of-seconds/468274/14
+  source_url: https://github.com/edwardtfn/ha_blueprints/raw/main/script/EdwardTFN/blink_lights.yaml
 
 fields:
   entities:
