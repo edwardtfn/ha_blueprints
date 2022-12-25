@@ -2,7 +2,7 @@ blueprint:
   name: Blink lights on a trigger
   description: Blink lights (or a switch) when a trigger (binary-sensor) changes.
   domain: automation
-  source_url: https://community.home-assistant.io/t/wth-is-so-difficult-to-make-a-light-blink-for-a-couple-of-seconds/468274/13
+  source_url: https://github.com/edwardtfn/ha_blueprints/raw/main/automation/EdwardTFN/blink_lights.yaml
   input:
     trigger_entities:
       name: Trigger entities
